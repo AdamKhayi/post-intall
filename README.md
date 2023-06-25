@@ -163,3 +163,5 @@ This tutorial demonstrates the post-install configuration of osTicket.<br />
 <p>
   This concludes the configuration osTicket.
 </p>
+
+[Click here to see the project that displays the lifecycle of a ticket within osTicket](https://github.com/AdamKhayi/ticket-lifecycle)
